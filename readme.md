@@ -1,6 +1,6 @@
 # Classe de Mascára
 
-## Usage
+## Uso
 
 // Caminho do arquivo
 include './mascara.php';
