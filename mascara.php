@@ -7,7 +7,6 @@
             $this->mask = $mask;
         }
 
-        /////////// CONEXAO POSTGRES
         public function doMask(){
             $mask = $this->mask;
             $val = $this->val;
