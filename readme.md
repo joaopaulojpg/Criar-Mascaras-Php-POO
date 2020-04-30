@@ -6,6 +6,7 @@
 include './mascara.php';
 
 $mascara = new Mascara('12345678910', '###.###.###-##');
+
 $mascara = $mascara->doMask(); /// Valor com a mascara aplicada
 
 echo $mascara; 
